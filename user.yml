@@ -10,8 +10,6 @@ spring:
       server:
         git:
           url: https://github.com/IBeliveDream/spring-cloud-config-server.git
-          username: 1220298776@qq.com
-          password: wangjin2333
 
 logging:
   level:
